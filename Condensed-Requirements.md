@@ -25,7 +25,9 @@ Remain idle but still view posts and comments; prompted to log in before editing
 
 # Assignment Overview:
 
-Create a CMS-style blog site resembling WordPress, allowing developers to publish and comment on posts. Follow the MVC paradigm with folder structure, use express-handlebars for Views, MySQL2 and Sequelize for Models, and build an Express.js API for Controllers. Employ dotenv for environment variables, bcrypt for password hashing, and express-session with connect-session-sequelize for authentication. The site should deploy to Heroku.
+Create a CMS-style blog site resembling WordPress, allowing developers to publish and comment on posts. 
+Follow the MVC paradigm with folder structure, use express-handlebars for Views, MySQL2 and Sequelize for Models, and build an Express.js API for Controllers.
+ Employ dotenv for environment variables, bcrypt for password hashing, and express-session with connect-session-sequelize for authentication. The site should deploy to Heroku.
 
 # Technical Criteria (40%):
 
